@@ -30,3 +30,4 @@ venv
 config.py
 files
 *.bib
+.shipped
