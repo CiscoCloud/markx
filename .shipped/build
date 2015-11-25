@@ -1,4 +1,4 @@
 #!/bin/bash
 
-easy_install flask
-#pip install -r requirements.txt
+#easy_install flask
+pip install -r requirements.txt
